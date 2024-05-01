@@ -7,7 +7,6 @@ from datetime import date, datetime, timedelta
 import pytz
 import json
 
-
 def main():
     print_hi("Matthew")
 
